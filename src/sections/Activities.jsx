@@ -64,7 +64,7 @@ const About = () => {
 
   return (
     <section
-      id="about"
+      id="activities"
       ref={ref}
       className="w-full bg-gradient-to-b from-[#f0f9ff] to-[#fdfdfd] text-gray-800 py-20 px-4 md:px-12"
     >

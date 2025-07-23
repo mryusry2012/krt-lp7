@@ -17,7 +17,7 @@ export default function Footer() {
             <li><a href="#hero" className="hover:text-orange-400">Utama</a></li>
             <li><a href="#about" className="hover:text-orange-400">Tentang</a></li>
             <li><a href="#activities" className="hover:text-orange-400">Aktiviti</a></li>
-            <li><a href="#committee-members" className="hover:text-orange-400">AJK</a></li>
+            <li><a href="#committee" className="hover:text-orange-400">AJK</a></li>
             <li><a href="#gallery" className="hover:text-orange-400">Galeri</a></li>
           </ul>
         </div>

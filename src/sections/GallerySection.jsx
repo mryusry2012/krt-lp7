@@ -72,7 +72,7 @@ export default function GallerySection() {
           Galeri Komuniti
         </span>
         <h2 className="mt-5 text-3xl md:text-5xl font-extrabold text-black drop-shadow-sm">
-          Aktiviti & Kenangan KRT LP7
+          Galeri Gambar KRT LP7
         </h2>
         <p className="mt-3 text-gray-600 text-base md:text-lg max-w-2xl mx-auto">
           Rakaman memori aktiviti dan penglibatan komuniti dalam pelbagai program yang dianjurkan.

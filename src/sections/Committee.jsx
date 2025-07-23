@@ -80,7 +80,7 @@ export default function Committee() {
 
   return (
     <section
-      id="committee-members"
+      id="committee"
       ref={ref}
       className="w-full bg-gradient-to-b from-[#f0f9ff] to-[#fdfdfd] text-gray-800 py-24 px-2 sm:px-4 md:px-12 overflow-x-hidden"
       style={{

@@ -15,9 +15,9 @@ import { Link, animateScroll as scroll } from "react-scroll"
 
 const navItems = [
   { id: "about", label: "Tentang", icon: <Info size={18} /> },
-  { id: "activities", label: "Aktiviti", icon: <Zap size={18} /> },
   { id: "committee", label: "AJK", icon: <Users size={18} /> },
-  { id: "documents", label: "Dokumen", icon: <FileText size={18} /> },
+  { id: "activities", label: "Aktiviti", icon: <Zap size={18} /> },
+  { id: "gallery", label: "Gallery", icon: <FileText size={18} /> },
   { id: "contact", label: "Hubungi", icon: <Mail size={18} /> },
 ]
 
